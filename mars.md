@@ -2,11 +2,11 @@
 ## Littler heading
 # Even smaller
 
-- apples
-- oranges
-- pears
+- Apples
+- Oranges
+- Pears
 
-1 R
-2 Python
+2 R
+1 Python
 
 [Software carpentry(http://www.software-carpentry.org)]
